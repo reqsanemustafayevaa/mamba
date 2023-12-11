@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\bin\Debug\net6.0\examtask.data.deps.json
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\bin\Debug\net6.0\examtask.data.dll
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\bin\Debug\net6.0\examtask.data.pdb
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\bin\Debug\net6.0\examtask.core.dll
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\bin\Debug\net6.0\examtask.core.pdb
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.dll
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\refint\examtask.data.dll
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.pdb
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\ref\examtask.data.dll
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\bin\Debug\net6.0\examtask.data.runtimeconfig.json
+C:\Users\II novbe\Desktop\taskclass\examtaskpr\src\examtask.data\obj\Debug\net6.0\examtask.data.genruntimeconfig.cache

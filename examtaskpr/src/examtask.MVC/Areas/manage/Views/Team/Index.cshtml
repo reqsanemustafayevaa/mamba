@@ -1,0 +1,40 @@
+﻿@model List<Team>
+@{
+    int counter = 0;
+}
+<div>Create</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">No</th>
+            <th scope="col">Name</th>
+            <th scope="col">Position</th>
+
+            <th scope="col">Image</th>
+            <th scope="col">RedirectUrl1</th>
+            <th scope="col">RedirectUrl2</th>
+            <th scope="col">RedirectUrl3</th>
+            <th scope="col">RedirectUrl4</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var team in Model){
+            counter++;
+            <tr>
+                <th scope="row">@counter</th>
+                <td>@team.Name</td>
+                <td>@team.position</td>
+                <td>@team.Imageurl</td>
+                <td>@team.RedirectUrl1</td>
+                <td>@team.RedirectUrl2</td>
+                <td>@team.RedirectUrl3</td>
+                <td>@team.RedirectUrl4</td>
+               
+
+
+            </tr>
+        }
+        
+       
+    </tbody>
+</table>
